@@ -1,0 +1,28 @@
+.main {
+  display: flex;
+  text-align: center;
+}
+
+.column {
+  float: left;
+  width: 50%;
+  flex: 50%;
+}
+
+input {
+  font-family: Arial, Sans-Serif;
+  font-size: 18px;
+  color: #adadad;
+  padding: 10px;
+  margin: 80px;
+  border: solid 1px #adadad;
+  width: 200px;
+}
+
+button {
+  font-family: Arial, Sans-Serif;
+  font-size: 18px;
+  padding: 20px;
+  margin: 50px;
+  width: 150px;
+}
